@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,KAAM;EACL,UAAU,EAAE,IAAI;EACb,UAAU,EAAE,gBAAgB",
+"sources": ["../../sass/modules/posts.scss"],
+"names": [],
+"file": "posts.css"
+}
